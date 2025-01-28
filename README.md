@@ -1,7 +1,7 @@
 
  # Landing Page - Projeto de Cores
 
- ![](./print%20projeto%20cores.png)
+ ![alt text](image.png)
 
  ---
  ## Sobre
